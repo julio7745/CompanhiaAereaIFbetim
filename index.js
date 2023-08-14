@@ -56,6 +56,7 @@ function atualizaPassageiros(novaQuantidadeDePassageiros) {
         inputQuantidadeDeMalas.type = 'number'
         inputQuantidadeDeMalas.min = 0
         inputQuantidadeDeMalas.max = 3
+        inputQuantidadeDeMalas.placeholder = 0
         inputQuantidadeDeMalas.value = 0
         inputQuantidadeDeMalas.addEventListener('input', handleInputChange);
         divPassageiro.appendChild(inputQuantidadeDeMalas)
@@ -251,7 +252,7 @@ window.addEventListener('DOMContentLoaded', function() {
     inputs.forEach(function(input) {
         input.addEventListener('input', handleInputChange);
     });
-    atualizaPassageiros(1)
+    atualizaPassageiros(0)
     atualizaSaidas(1)
 });
 

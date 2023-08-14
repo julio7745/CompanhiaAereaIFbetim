@@ -28,12 +28,12 @@
 body{
     position: relative;
     width: 100%;
-    padding: 10px 0px;
+    padding-top: 10px;
     background-color: #083b08;
     text-align: center;
     align-items: center;
     color: #ffffff;
-    height: 100.1vh;
+    overflow-y: scroll;
 }
 h1{
     width: 95%;
@@ -141,7 +141,7 @@ body > div h3, body > div h4{
 input.pmala{
     width: 100px;
 }
-input.pmala::placeholder {
+input::placeholder {
     color: #000000;
 }
 #resultados{
