@@ -1,6 +1,6 @@
 # Projeto Companhia Aérea IFbetim - FrontEnd 💻✈
 
-### [Link para o projeto funcionando 🔗🌐](https://julio7745.github.io/CompanhiaAereaIFbetim/)
+### [Link para o projeto funcionando 🔗🌐](https://julio7745.github.io/CompanhiaAereaIFbetim-FrontEnd/)
 
 ## Descrição do Projeto 📝
 
