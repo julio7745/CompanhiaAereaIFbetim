@@ -18,3 +18,9 @@ Neste projeto, criamos uma aplicação web de simulação de distribuição de b
 - **Responsividade**: Implementamos CSS responsivo para garantir uma experiência adequada em diferentes dispositivos, incluindo smartphones e tablets.
 - **Algoritmos de Balanceamento**: Desenvolvemos algoritmos personalizados para determinar a alocação de malas com base em cálculos de peso.
 - **Visualização Clara**: Utilizamos um design intuitivo para tornar a exibição dos resultados e atribuições de malas fácil de entender.
+
+## Como Executar o Projeto Localmente 🚀
+
+1. Clone este repositório em sua máquina local.
+2. Navegue até a pasta `CompanhiaAereaIFbetim-FrontEnd` do projeto no terminal.
+3. Abra o arquivo `index.html` em seu navegador.
